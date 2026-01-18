@@ -1,0 +1,28 @@
+body{
+    background-image:url("Blue\ Geometric\ Technology\ Linktree\ Background.png") ;
+background-position: center;
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.x{
+    color: aqua;
+}
+.o{
+    color:aquamarine
+}
+.f{
+    color: aliceblue;
+}
+.box1{
+    width:auto;
+    height:auto;
+    float:bottom;
+}
+h1{
+    color:beige;
+    border-bottom-style:inset ;
+    border-left-style:double;
+    border-left-color: gold;
+    border-left-width: 15px;
+}
